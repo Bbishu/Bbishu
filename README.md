@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bbishu
+- 👋 Hi, I’m @Bishu
 - 👀 I’m interested in 
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,JQUERY,SQL,GIT AND GITHUB,PHP.
 - 💞️ I’m looking to collaborate on ...
