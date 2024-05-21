@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bishu
-- 👀 I’m interested in 
+- 👀 I’m interested in HTML,CSS,PHP,JAVASCRIPT,SQL
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,JQUERY,SQL,GIT AND GITHUB,PHP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
